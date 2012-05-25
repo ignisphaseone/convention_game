@@ -1,3 +1,10 @@
+What is this?
+
+It's a convention game, a piece of software that helps people run big
+events using real people! Infection, zombies, assassins, you name it, this
+software is designed to help people run those games. Still working out all
+the details on the specific nitty-gritty main structure of everything.
+
 Installing/Running/Testing
 
 This code's been written for Python 2.7.3, and Django 1.4
